@@ -35,7 +35,7 @@
 | REFACTOR  | 코드 리팩토링 |
 
 ## Branch
-
+![Git Flow](https://github.com/eoseon-iligo/.github/blob/main/profile/gitflow.png)
 
 - **main** : 운영 서버(Production)에 배포 브랜치
 - **develop** : 개발이 완료된 후 테스트 개발 서버(Develop) 브랜치

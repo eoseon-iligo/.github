@@ -3,7 +3,7 @@
 ## K-Digital Training Hackathon
 > 유휴 어선을 활용한 멘토링 연계 서비스
 
-/br **주최·주관 : 고용노동부**
+</br> **주최·주관 : 고용노동부**
 
 ## Tech Stack
 

@@ -14,8 +14,8 @@
 
 ## Developer
 
-|                 |   | | | | 
-| --- | --- | --- | --- | --- |
+|                 |   | | | | |
+| --- | --- | --- | --- | --- | --- |
 | [윤종수()]() | [지정호(hoya-q)](https://github.com/hoya-q) | [이서현(dansun2)](https://github.com/dansun2) | [이지용(gyongcode)](https://github.com/gyongcode) | 
 [이정아()]() | [이선호(08166)](https://github.com/08166) |
 | 기획  |  FrontEnd | BackEnd | Backend | Backend | Backend | 
